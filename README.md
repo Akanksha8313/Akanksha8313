@@ -9,11 +9,11 @@
 <h3 align="center">A passionate data scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha8313&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha8313" /> </p>
 
-- 🌱 I’m currently learning ML,DL
+- 🌱 I’m currently learning ML,DL.
 
-- 👯 I’m looking to collaborate on Sklearn,gsoc,numpy,pandas
+- 👯 I’m looking to collaborate on Sklearn,gsoc,numpy,pandas.
 
-- 💬 Ask me about machine learning
+- 💬 Ask me about machine learning.
 
 - 📫 How to reach me akankshasrivastava8313@gmail.com
 
