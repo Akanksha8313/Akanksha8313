@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on Sklearn,gsoc,numpy,pandas.
 
-- 💬 Ask me about machine learning.
+- 💬 Ask me about Machine Learning.
 
 - 📫 How to reach me akankshasrivastava8313@gmail.com
 
